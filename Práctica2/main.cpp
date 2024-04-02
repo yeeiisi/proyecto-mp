@@ -6,7 +6,6 @@
 /* 
  * File:   main.cpp
  *@author Jose Carlos Ibarrondo Maciá
- *@author Marcos Martínez Fernández
  */
 
 #include <cstdlib>
