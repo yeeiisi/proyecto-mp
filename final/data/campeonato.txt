@@ -1,0 +1,11 @@
+#Número de jugadores: 4
+MATRIZ JUGADOR X JUGADOR
+- 2 0 0 
+1 - 0 0 
+0 0 - 0 
+0 0 0 - 
+RANKING DE JUGADORES
+Marta Lopez 0.666667
+Carla Martinez 0.333333
+Sofia Fernandez 0.000000
+Mercedes Lopez 0.000000

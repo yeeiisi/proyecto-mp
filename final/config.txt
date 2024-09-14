@@ -1,0 +1,11 @@
+#Fichero de configuración de conectaN
+NUEVAPARTIDA = no
+FICHEROCAMPEONATO = campeonato1.txt
+JUGADORESID = 3 4
+TAM = 7
+NTOWIN = 4
+JUGADORES = 4
+Pedro Ramírez
+Pepe Morente
+Matilde López
+Ana Jiménez

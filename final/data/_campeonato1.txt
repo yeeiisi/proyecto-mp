@@ -1,0 +1,9 @@
+4
+1	Pedro	Ramírez		0		0
+2	Pepe	Morente		0		0
+3	Matilde	López		4		5
+4	Ana	Jiménez		1		5
+0 0 0 0 
+0 0 0 0 
+0 0 0 4 
+0 0 1 0 
