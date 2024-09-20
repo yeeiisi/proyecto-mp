@@ -1,5 +1,5 @@
 # Proyecto MP
-Este proyecto se lleva a cabo durante las sesiones prácticas de la asignatura de Metodología de la Programación.
+Este proyecto se lleva a cabo durante las sesiones prácticas de la asignatura de Metodología de la Programación, de 1º de Ingeniería Infromática en la UGR.
 
 ## Objetivo
 El objetivo principal de este proyecto es aprender la metodología de la programación en el lenguaje C++, utilizando memoria dinámica e intentando hacer los códigos más legibles, fáciles y simples.
